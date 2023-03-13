@@ -4,3 +4,18 @@ I have built dashboard in Power BI to analyze Zomato data, providing insights in
 
 # Problem Statement
 Zomato is a popular food delivery platform with a massive database of restaurants, ratings, reviews, menus, and more. However, with so much data available, it can be challenging to extract valuable insights and make informed business decisions. Our project aims to leverage Power BI's data modeling and visualization capabilities to analyze Zomato data and provide actionable insights to restaurant owners, investors, and other stakeholders in the food industry.
+
+
+# Steps
+1. Collect data from Zomato's API and prepare it for analysis using Python or another scripting language.
+
+2. Use Power BI's data modeling tools to create relationships between the various data sources.
+
+3. Create visualizations using Power BI's visualization tools that help you analyze the data.
+
+4. Bring all of your visualizations together into a single dashboard.
+
+
+# Dashboard
+
+![image](https://user-images.githubusercontent.com/101571254/224607771-c61c5614-8830-4a46-994a-caef7b6a642f.png)
