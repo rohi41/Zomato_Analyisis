@@ -7,13 +7,15 @@ Zomato is a popular food delivery platform with a massive database of restaurant
 
 
 # Steps
-1. Collect data from Zomato's API and prepare it for analysis using Python or another scripting language.
+1. Collect data and prepare it for analysis.
 
-2. Use Power BI's data modeling tools to create relationships between the various data sources.
+2. Performed ETL processes and data cleaning for accuracy
 
-3. Create visualizations using Power BI's visualization tools that help you analyze the data.
+3. Use Power BI's data modeling tools to create relationships between the various data sources.
 
-4. Bring all of your visualizations together into a single dashboard.
+4. Create visualizations using Power BI's visualization tools that help you analyze the data.
+
+5. Bring all of your visualizations together into a single dashboard.
 
 
 # Dashboard
